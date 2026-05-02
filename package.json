@@ -1,9 +1,15 @@
 {
   "name": "harness-builder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "AI가 AI 프로젝트 환경을 스스로 설정해주는 메타-에이전트 시스템. Claude Code / Cursor / Windsurf / Antigravity 지원.",
   "keywords": [
-    "ai-agent", "claude", "cursor", "windsurf", "harness", "llm", "agent-engineering"
+    "ai-agent",
+    "claude",
+    "cursor",
+    "windsurf",
+    "harness",
+    "llm",
+    "agent-engineering"
   ],
   "author": "sbs1253",
   "license": "MIT",
