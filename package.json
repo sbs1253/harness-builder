@@ -1,0 +1,31 @@
+{
+  "name": "harness-builder",
+  "version": "1.0.0",
+  "description": "AI가 AI 프로젝트 환경을 스스로 설정해주는 메타-에이전트 시스템. Claude Code / Cursor / Windsurf / Antigravity 지원.",
+  "keywords": [
+    "ai-agent", "claude", "cursor", "windsurf", "harness", "llm", "agent-engineering"
+  ],
+  "author": "sbs1253",
+  "license": "MIT",
+  "bin": {
+    "harness-builder": "./bin/index.js"
+  },
+  "main": "./bin/index.js",
+  "files": [
+    "bin/",
+    "template/",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sbs1253/harness-builder"
+  },
+  "homepage": "https://github.com/sbs1253/harness-builder#readme",
+  "bugs": {
+    "url": "https://github.com/sbs1253/harness-builder/issues"
+  }
+}

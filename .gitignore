@@ -1,0 +1,12 @@
+# 배포 참고용 문서 (로컬에만 보관)
+PUBLISH_GUIDE.md
+ 
+# npm
+node_modules/
+ 
+# OS
+.DS_Store
+Thumbs.db
+ 
+# 테스트용 임시 폴더
+test/

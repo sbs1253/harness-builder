@@ -1,0 +1,16 @@
+---
+description: Harness Builder Team 전역 룰
+alwaysApply: true
+---
+
+# Harness Builder Team — 전역 룰
+
+- 작업 전 `docs/PRD.md`, `docs/ARCHITECTURE.md` 반드시 읽기
+- 코드 작성 전 공식 문서 웹 검색 필수 (사전 학습 지식 의존 금지)
+- API 키 `.env.local`에만 저장, 소스 코드 하드코딩 금지
+- 파괴적 명령어(`rm -rf` 등) 실행 금지
+- `00-*` 에이전트 파일 수정 금지 (보호구역)
+- `ONBOARDING.md` 존재 시 빌더 에이전트 비활성화
+
+## 시작하기
+"하네스 세팅 진행해" 라고 입력하세요.
