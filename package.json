@@ -8,9 +8,9 @@
   "author": "sbs1253",
   "license": "MIT",
   "bin": {
-    "harness-builder": "./bin/index.js"
+    "harness-builder": "bin/index.js"
   },
-  "main": "./bin/index.js",
+  "main": "bin/index.js",
   "files": [
     "bin/",
     "template/",
@@ -22,7 +22,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/sbs1253/harness-builder"
+    "url": "git+https://github.com/sbs1253/harness-builder.git"
   },
   "homepage": "https://github.com/sbs1253/harness-builder#readme",
   "bugs": {
